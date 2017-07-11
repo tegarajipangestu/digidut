@@ -15,7 +15,7 @@ Di suatu desa yang indah, tinggalah seorang bernama Taisan dan Yamakun yang memi
 - Ketika MetalGreydut atau WarGreydut memenangkan pertarungan, dia akan melakukan dedigivolve menjadi Korodut (level Baby)
 - Ketika MetalGreydut atau WarGreydut kalah dalam pertarungan, dia akan melakukan dedigivolve menjadi Agudut (level Rookie)
 - Garurudut dapat melakukan digivolve menjadi WereGarurudut (level Ultimate)
-- Agudut dapat melakukan Mega digivolve menjadi WarGreydut (level Mega)
+- Gabudut dapat melakukan Mega digivolve menjadi MetalGarurudut (level Mega)
 - Ketika WereGarurudut atau MetalGarurudut memenangkan pertarungan, dia akan melakukan dedigivolve menjadi Tsunodut (level Baby)
 - Ketika WereGarurudut atau MetalGarurudut kalah dalam pertarungan, dia akan melakukan dedigivolve menjadi Gabudut (level Rookie)
 - Wargreydut dapat memenangkan pertarungan melawan Digidut yang berakhiran dradut, seperti Machinedradut dan Seadradut, tidak bergantung pada level Digidut yang dihadapinya.
